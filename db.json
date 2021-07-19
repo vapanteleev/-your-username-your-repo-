@@ -1,4 +1,59 @@
 
 {
-  "a":"q"
+    "users":[
+        {
+            
+            "id":1,
+
+            "username":"bobby",
+
+            "password":"12345",
+
+        },
+        {
+            
+            "id":2,
+
+            "username":"lolly",
+
+            "password":"555555",
+
+        },
+        {
+            
+            "id":3,
+
+            "username":"goggy",
+
+            "password":"111111",
+
+        },
+        {
+            
+            "id":4,
+
+            "username":"susan",
+
+            "password":"00000",
+
+        },
+        {
+            
+            "id":5,
+
+            "username":"denny",
+
+            "password":"098765",
+
+        },
+        {
+            
+            "id":6,
+
+            "username":"sally",
+
+            "password":"222222",
+
+        }
+    ]
 }
