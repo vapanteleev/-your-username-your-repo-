@@ -7,7 +7,7 @@
 
             "username":"bobby",
 
-            "password":"12345",
+            "password":"12345"
 
         },
         {
@@ -16,7 +16,7 @@
 
             "username":"lolly",
 
-            "password":"555555",
+            "password":"555555"
 
         },
         {
@@ -25,7 +25,7 @@
 
             "username":"goggy",
 
-            "password":"111111",
+            "password":"111111"
 
         },
         {
@@ -34,7 +34,7 @@
 
             "username":"susan",
 
-            "password":"00000",
+            "password":"00000"
 
         },
         {
@@ -43,7 +43,7 @@
 
             "username":"denny",
 
-            "password":"098765",
+            "password":"098765"
 
         },
         {
@@ -52,7 +52,7 @@
 
             "username":"sally",
 
-            "password":"222222",
+            "password":"222222"
 
         }
     ]
